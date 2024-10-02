@@ -1,7 +1,7 @@
 {
   "name": "intro",
   "private": true,
-  "homepage": "https://shlaginau.github.io/ra-hw_props_films/",
+  "homepage": "https://shlaginau.github.io/ra-hw_props_listing/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
