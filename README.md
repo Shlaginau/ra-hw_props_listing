@@ -4,7 +4,7 @@
 ===
 
 Необходимо реализовать компонент, отображающий рейтинг фильма в виде звёзд:
-![Список фильмов](./assets/preview.png)
+![Список фильмов](https://github.com/netology-code/ra16-homeworks/raw/ra-51/props/films/assets/preview.png)
 
 ## Описание компонента
 
